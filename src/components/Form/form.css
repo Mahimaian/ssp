@@ -1,0 +1,28 @@
+.dialog_title {
+  color: rgb(0, 86, 145);
+  font-weight: 500;
+  font-size:calc(21px);
+  border-width:0.5px;
+  border-bottom-style:solid;
+  border-bottom-color:rgba(0, 0, 0, 0.15);
+}
+.dialog_cards {
+  color: rgb(29 100 168) !important;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  color: rgb(29 100 168) !important;
+}
+.dialog_cont {
+  border-width:0.5px;
+  border-bottom-style:solid;
+  border-bottom-color:rgba(0, 0, 0, 0.15);
+}
+
+.dialog_desc {
+  font-size: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1.5;
+  letter-spacing: 0.00938em;
+  margin-top: 25px;
+}

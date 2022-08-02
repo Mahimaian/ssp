@@ -1,0 +1,54 @@
+.carousel_hero {
+  padding: 15px;
+  color: rgb(0, 86, 145);
+  
+}
+.carousel_grid {
+  font-family: 'Arial'; 
+  padding: 10px;
+  color: rgb(0, 86, 145);
+  padding-top: 20px;
+  text-decoration:solid;
+  margin-bottom: 10px;
+  font-size:calc(1.4rem);
+}
+.carousel_div {
+    background-image: url(../../assets/img/Bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vw;
+    background-color: #ffffff;
+    display: "flex";
+    max-Width: 100vw;
+}
+.carousel_cards {
+  padding: 10px;
+  text-align: center;
+  background-color: #fff;
+  margin: 8px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.card_adjust {
+  margin-bottom: 25px !important;
+}
+.carousel_cards h3 {
+  margin-bottom: 3px;
+  color: #005691;
+}
+.carousel_card_icon {
+  font-size: 4rem !important;
+
+}
+
+.carousel_cards p {
+  font-size: 14px;
+  color: #005691;
+}
+
+.dialog_cards {
+  color: rgb(0, 86, 145) !important;
+}
+.css-1t1j96h-MuiPaper-root-MuiDialog-paper {
+  color: rgb(0, 86, 145) !important;
+}
